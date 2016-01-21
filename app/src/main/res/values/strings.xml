@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HikeTracker</string>
+    <string name="action_start">START</string>
+    <string name="action_stop">STOP</string>
+
+    <string name="panoramio_request_parametrized_url">"http://www.panoramio.com/map/get_panoramas.php?set=public&amp;from=0&amp;to=100&amp;minx=%1$s&amp;miny=%2$s&amp;maxx=%3$s&amp;maxy=%4$s&amp;size=medium&amp;mapfilter=false"</string>
+</resources>
